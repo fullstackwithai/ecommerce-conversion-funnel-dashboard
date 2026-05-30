@@ -1,20 +1,12 @@
+![Ecommerce Conversion Funnel Dashboard premium hero](assets/readme-hero.svg)
+
 # Ecommerce Conversion Funnel Dashboard
 
 > E-commerce analytics dashboard for funnel conversion, cart abandonment, revenue leakage, product performance, and buyer journey optimization.
 
 Built by **Arsim Shefkiu** under **FullStackWithAI**.
 
-<p align="center">
-  <img alt="Ecommerce BI" src="https://img.shields.io/badge/Ecommerce%20BI-Conversion%20Funnel-16A34A?style=for-the-badge" />
-  <img alt="Revenue Funnel" src="https://img.shields.io/badge/Revenue%20Funnel-Cart%20Analytics-0F172A?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Commerce%20Intelligence-22C55E?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
 
 ---
 
@@ -72,6 +64,8 @@ This repository is presented as a premium e-commerce BI dashboard focused on con
 
 ```text
 ecommerce-conversion-funnel-dashboard/
+├── assets/
+│   └── readme-hero.svg
 ├── data/
 │   └── ecommerce-funnel-sample.csv
 ├── sql/
@@ -97,12 +91,6 @@ ecommerce-conversion-funnel-dashboard/
 |---|---|
 | I build commerce dashboards that turn buyer behavior into clearer growth decisions. | **FullStackWithAI** represents premium portfolio work around practical data problems, polished BI presentation, and AI-assisted execution. |
 
-<p align="center">
-  <strong>Theme:</strong> Ecommerce BI · Conversion Funnel · Cart Analytics · Revenue Optimization
-</p>
+**Theme:** Ecommerce BI · Conversion Funnel · Cart Analytics · Revenue Optimization
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
